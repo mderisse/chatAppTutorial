@@ -1,6 +1,6 @@
 HOSTING —
 
-1. PUSH FILES TO GITHUB
+1.PUSH FILES TO GITHUB
 
 — Before we can set up a the hosting side of things we need to make sure out github is up to date!
 
@@ -22,7 +22,7 @@ HOSTING —
 
 — your now pushed up to the repo
 
-2. SSH INTO THE SERVER
+2.SSH INTO THE SERVER
 
 — Next we will need to SSH into the server, so open up a new terminal window.
 
@@ -30,7 +30,7 @@ HOSTING —
 
 — type in your password
 
-3. CLONE GITHUB REPO
+3.CLONE GITHUB REPO
 
 — Now that we are in the server we need to clone our repo over so that we have all the files.
 
